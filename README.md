@@ -11,7 +11,7 @@ The "Hecop_Firewall" project is designed to provide robust firewall protection f
 
 ## Installation
 To install and run Hecop_Firewall, you need:
-1. A system with .Net Framework 4.7 or higher.
+1. A system with .Net 6.0 or higher.
 2. Administrator privileges to ensure proper installation and configuration.
 3. The Hecop_Firewall installer and necessary supporting tools.
 
@@ -39,7 +39,7 @@ Dự án "Hecop_Firewall" được thiết kế để cung cấp bảo vệ fire
 
 ## Cài đặt
 Để cài đặt và chạy Hecop_Firewall, bạn cần:
-1. Hệ thống với .Net Framework 4.7 trở lên.
+1. Hệ thống với .Net 6.0 hoặc trở lên.
 2. Quyền quản trị để đảm bảo cài đặt và cấu hình đúng cách.
 3. Trình cài đặt Hecop_Firewall và các công cụ hỗ trợ cần thiết.
 
