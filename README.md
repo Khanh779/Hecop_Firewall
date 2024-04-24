@@ -1,7 +1,7 @@
 # Hecop_Firewall
 
 ## Description
-The "Hecop_Firewall" project is designed to provide robust firewall protection for networked environments. It features advanced packet filtering, stateful inspection, and easy-to-configure rules to protect against unauthorized access and attacks. The project is suitable for small businesses and individual users who need basic network security.
+The "Hecop_Firewall" project is designed to provide robust firewall protection for networked environments. It features advanced packet filtering, stateful inspection, and easy-to-configure rules to protect against unauthorized access and attacks. 
 
 ## Features
 - Stateful packet inspection and filtering.
@@ -29,7 +29,7 @@ Contributions are welcome! If you have any suggestions or improvements, please o
 # Hecop_Firewall
 
 ## Mô tả
-Dự án "Hecop_Firewall" được thiết kế để cung cấp bảo vệ firewall vững chắc cho môi trường mạng. Dự án có các tính năng lọc gói tin, kiểm tra trạng thái và các quy tắc dễ cấu hình để bảo vệ khỏi truy cập trái phép và tấn công. Dự án phù hợp với các doanh nghiệp nhỏ và người dùng cá nhân cần bảo mật mạng cơ bản.
+Dự án "Hecop_Firewall" được thiết kế để cung cấp bảo vệ firewall vững chắc cho môi trường mạng. Dự án có các tính năng lọc gói tin, kiểm tra trạng thái và các quy tắc dễ cấu hình để bảo vệ khỏi truy cập trái phép và tấn công.
 
 ## Tính năng
 - Kiểm tra và lọc gói tin theo trạng thái.
